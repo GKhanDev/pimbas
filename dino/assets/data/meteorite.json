@@ -1,0 +1,102 @@
+{"frames": [
+
+{
+	"filename": "meteoriteShow00.png",
+	"frame": {"x":1,"y":1,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "meteoriteShow01.png",
+	"frame": {"x":1,"y":34,"w":31,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":28},
+	"sourceSize": {"w":31,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "meteoriteShow02.png",
+	"frame": {"x":33,"y":34,"w":31,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":28},
+	"sourceSize": {"w":31,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "meteoriteShow03.png",
+	"frame": {"x":65,"y":32,"w":31,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":29},
+	"sourceSize": {"w":31,"h":29},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "meteoriteShow04.png",
+	"frame": {"x":96,"y":1,"w":31,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":29},
+	"sourceSize": {"w":31,"h":29},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "meteoriteShow05.png",
+	"frame": {"x":128,"y":1,"w":31,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":28},
+	"sourceSize": {"w":31,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "meteoriteShow06.png",
+	"frame": {"x":34,"y":1,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "meteoriteShow07.png",
+	"frame": {"x":128,"y":30,"w":30,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":29},
+	"sourceSize": {"w":30,"h":29},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "meteoriteShow08.png",
+	"frame": {"x":97,"y":31,"w":30,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":28},
+	"sourceSize": {"w":30,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "meteoriteShow09.png",
+	"frame": {"x":65,"y":1,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "meteorite.png",
+	"format": "RGBA8888",
+	"size": {"w":160,"h":63},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a8cf08eb879b7e52194b09f0a4a41c30:025c78af065b756896a1022460061e72:6bd12e01cbeb03addb44336ea6fc0bcb$"
+}
+}

@@ -1,0 +1,48 @@
+{"frames": [
+
+{
+	"filename": "ballShow00.png",
+	"frame": {"x":0,"y":0,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ballShow01.png",
+	"frame": {"x":0,"y":8,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ballShow02.png",
+	"frame": {"x":8,"y":0,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ballShow03.png",
+	"frame": {"x":8,"y":8,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ball.png",
+	"format": "RGBA8888",
+	"size": {"w":16,"h":16},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e05e8878fc45de973612a61f2374ee74:96f7f02cdbe0832e0c9c220c301c69b7:50a67b72e1915f3e08c6f05b684244d0$"
+}
+}

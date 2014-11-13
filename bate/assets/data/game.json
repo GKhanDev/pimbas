@@ -1,0 +1,57 @@
+{"frames": [
+
+{
+	"filename": "bush.png",
+	"frame": {"x":2,"y":68,"w":64,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":16},
+	"sourceSize": {"w":64,"h":16},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "grass.png",
+	"frame": {"x":476,"y":2,"w":16,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":32},
+	"sourceSize": {"w":16,"h":32},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "pimbaShow00.png",
+	"frame": {"x":2,"y":2,"w":156,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":64},
+	"sourceSize": {"w":156,"h":64},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "pimbaShow01.png",
+	"frame": {"x":160,"y":2,"w":156,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":64},
+	"sourceSize": {"w":156,"h":64},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "pimbaShow02.png",
+	"frame": {"x":318,"y":2,"w":156,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":64},
+	"sourceSize": {"w":156,"h":64},
+	"pivot": {"x":0.5,"y":1}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game.png",
+	"format": "RGBA8888",
+	"size": {"w":494,"h":86},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:024de866404ebcc03633517031b1ebf7:3055a01b3ef21996360f78a17dc9f15c:fc2835210f98bae8e8c1b7f0a84c9321$"
+}
+}

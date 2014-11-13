@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "enemyDeath00.png",
+	"frame": {"x":0,"y":302,"w":175,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":174},
+	"sourceSize": {"w":175,"h":174},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "enemyIdle00.png",
+	"frame": {"x":186,"y":0,"w":186,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":151},
+	"sourceSize": {"w":186,"h":151},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "enemyShow00.png",
+	"frame": {"x":0,"y":0,"w":186,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":156},
+	"sourceSize": {"w":186,"h":156},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "enemyShow01.png",
+	"frame": {"x":175,"y":302,"w":145,"h":157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":145,"h":157},
+	"sourceSize": {"w":145,"h":157},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "enemyWalk00.png",
+	"frame": {"x":320,"y":295,"w":180,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":143},
+	"sourceSize": {"w":180,"h":143},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "enemyWalk01.png",
+	"frame": {"x":0,"y":156,"w":182,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":146},
+	"sourceSize": {"w":182,"h":146},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "enemyWalk02.png",
+	"frame": {"x":186,"y":151,"w":183,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":144},
+	"sourceSize": {"w":183,"h":144},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "enemyWalk03.png",
+	"frame": {"x":0,"y":156,"w":182,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":146},
+	"sourceSize": {"w":182,"h":146},
+	"pivot": {"x":0.5,"y":1}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "enemy.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cabbe209a9783d56182d15fb8ed74214:9f4e784d0eaad0daef8ac2086035744a:a99356c10d69482e9bee53d25c3d05e1$"
+}
+}
