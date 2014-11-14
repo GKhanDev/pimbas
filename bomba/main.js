@@ -5,6 +5,7 @@ function preload()
 	//game.load.image("checker", "assets/checker.png");
 	game.load.atlas('game', 'assets/data/game.png', 'assets/data/game.json');
 	game.load.atlas('enemy', 'assets/data/enemy.png', 'assets/data/enemy.json');
+	game.load.atlas('explosion', 'assets/data/explosion.png', 'assets/data/explosion.json')
 	//game.load.atlasXML('enemy', 'assets/data/enemy.png', 'assets/data/enemy.xml');
 
 	currentState = States.LOAD;
@@ -41,8 +42,20 @@ function create()
     enemy.anchor.setTo(0.5,1);
     enemy.scale.setTo(2);
     enemy.scale.x *= -1;
+
+	var explosion = game.add.sprite( game.world.centerX, 400, 'explosion');
+	explosion.animations.add('explode').onComplete.add(onExplosionComplete,explosion);
+	explosion.animations.play('explode', 30, true);
+	explosion.anchor.setTo(0.5,1);
+	explosion.scale.setTo(5);
+
 	
 	currentState = States.GAME;
+}
+
+function onExplosionComplete(_explosion)
+{
+	_explosion.kill();
 }
 
 function update()
