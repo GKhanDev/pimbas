@@ -212,6 +212,11 @@
             <filename>explosion12.png</filename>
             <filename>explosion13.png</filename>
             <filename>explosion14.png</filename>
+            <filename>explosion28.png</filename>
+            <filename>explosion24.png</filename>
+            <filename>explosion25.png</filename>
+            <filename>explosion26.png</filename>
+            <filename>explosion27.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
