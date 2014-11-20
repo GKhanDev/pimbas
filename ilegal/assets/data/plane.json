@@ -1,0 +1,48 @@
+{"frames": [
+
+{
+	"filename": "planeFly00.png",
+	"frame": {"x":0,"y":0,"w":50,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":30},
+	"sourceSize": {"w":50,"h":30},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "planeFly01.png",
+	"frame": {"x":50,"y":0,"w":50,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":30},
+	"sourceSize": {"w":50,"h":30},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "planeFly02.png",
+	"frame": {"x":100,"y":0,"w":50,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":30},
+	"sourceSize": {"w":50,"h":30},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "planeFly03.png",
+	"frame": {"x":150,"y":0,"w":50,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":30},
+	"sourceSize": {"w":50,"h":30},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plane.png",
+	"format": "RGBA8888",
+	"size": {"w":200,"h":30},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cb298ed683ad3edf90d85096841e2663:0d58c4cd3a5c6ead818203b6a7a0b51b:e7d815c4455bdad6de6ff1a8b57e9b20$"
+}
+}

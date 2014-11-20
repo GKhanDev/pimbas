@@ -1,0 +1,174 @@
+{"frames": [
+
+{
+	"filename": "playerCleanClean00.png",
+	"frame": {"x":0,"y":0,"w":80,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":70},
+	"sourceSize": {"w":80,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerCleanClean01.png",
+	"frame": {"x":80,"y":0,"w":80,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":70},
+	"sourceSize": {"w":80,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerCleanIdle00.png",
+	"frame": {"x":160,"y":0,"w":80,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":70},
+	"sourceSize": {"w":80,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerCleanIdle01.png",
+	"frame": {"x":240,"y":0,"w":80,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":70},
+	"sourceSize": {"w":80,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerDogIdle00.png",
+	"frame": {"x":320,"y":0,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerDogIdle01.png",
+	"frame": {"x":400,"y":0,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerDogRunning00.png",
+	"frame": {"x":480,"y":0,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerDogRunning01.png",
+	"frame": {"x":560,"y":0,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerDogRunning02.png",
+	"frame": {"x":640,"y":0,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerDogRunning03.png",
+	"frame": {"x":720,"y":0,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerRiverCrossing00.png",
+	"frame": {"x":800,"y":0,"w":70,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":120},
+	"sourceSize": {"w":70,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerRiverCrossing01.png",
+	"frame": {"x":870,"y":0,"w":70,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":120},
+	"sourceSize": {"w":70,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerRiverCrossing02.png",
+	"frame": {"x":940,"y":0,"w":70,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":120},
+	"sourceSize": {"w":70,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerRiverCrossing03.png",
+	"frame": {"x":1010,"y":0,"w":70,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":120},
+	"sourceSize": {"w":70,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerRiverIdle00.png",
+	"frame": {"x":1080,"y":0,"w":70,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":120},
+	"sourceSize": {"w":70,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerRiverIdle01.png",
+	"frame": {"x":1150,"y":0,"w":70,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":120},
+	"sourceSize": {"w":70,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerRiverIdle02.png",
+	"frame": {"x":1220,"y":0,"w":70,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":120},
+	"sourceSize": {"w":70,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerRiverIdle03.png",
+	"frame": {"x":1290,"y":0,"w":70,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":120},
+	"sourceSize": {"w":70,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "player.png",
+	"format": "RGBA8888",
+	"size": {"w":1360,"h":120},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3a4b9647f33f2875771fb3dddc54d229:ab3618111983804310deba42b8258b70:86d5339b780aedd87b35e2b7c0a7e11b$"
+}
+}

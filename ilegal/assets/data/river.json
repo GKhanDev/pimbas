@@ -1,0 +1,57 @@
+{"frames": [
+
+{
+	"filename": "river00.png",
+	"frame": {"x":0,"y":0,"w":320,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":240},
+	"sourceSize": {"w":320,"h":240},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "river01.png",
+	"frame": {"x":320,"y":0,"w":320,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":240},
+	"sourceSize": {"w":320,"h":240},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "river02.png",
+	"frame": {"x":640,"y":0,"w":320,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":240},
+	"sourceSize": {"w":320,"h":240},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "river03.png",
+	"frame": {"x":0,"y":240,"w":320,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":240},
+	"sourceSize": {"w":320,"h":240},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "river04.png",
+	"frame": {"x":320,"y":240,"w":320,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":240},
+	"sourceSize": {"w":320,"h":240},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "river.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:715e8765de8e979e3fd6dbc05b698901:595c66bcd16b7b6f5cbaaaa2b021e867:c554c0a48e3c9d697a395f94c9ddcb28$"
+}
+}
